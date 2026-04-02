@@ -1,0 +1,9 @@
+title: Thanks for playing
+new-page: true
+is-card: true
+tags: party_affairs
+view-if: other_visited >= 1
+on-arrival: thanks_visited += 1
+card-image: img/arbeiterbew.jpg
+
+Thanks, Credits, and Citations
