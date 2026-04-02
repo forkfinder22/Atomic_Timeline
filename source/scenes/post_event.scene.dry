@@ -2,3 +2,4 @@ title: Post Event
 new-page: true
 on-arrival: {!
 !}
+go-to: main
