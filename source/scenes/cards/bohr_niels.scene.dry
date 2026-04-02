@@ -1,0 +1,10 @@
+title: Niels Bohr
+new-page: true
+is-card: true
+tags: party_affairs
+view-if: rutherford_visited >= 1
+on-arrival: bohr_visited += 1
+card-image: img/international.jpg
+### Bohr is Blue
+
+Niels Bohr
