@@ -1,0 +1,9 @@
+title: John Dalton
+new-page: true
+on-arrival: dalton_visited += 1
+is-card: true
+card-image: img/flags.jpg
+frequency: 100
+tags: party_affairs
+
+John Dalton
