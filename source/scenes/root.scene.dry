@@ -31,7 +31,7 @@ new-page: true
 
 This is a game of non-fiction, and is not intended to be played as a game, rather as an interactive non-fiction "slideshow" (Of sorts)
 
-- @begin: <span style="color:#000000;">***Begin***</span>
+- @begin: *<span style="color:#000000;">**Begin**</span>*
 
 @begin
 new-page: true
