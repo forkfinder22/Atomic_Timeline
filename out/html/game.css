@@ -1,6 +1,6 @@
 body {
-  --bg-color: #f3f3e3;
-  --border-color: #000;
+  --bg-color: #000000;
+  --border-color: #ffd700;
   --content-bg-color: #f3f3f3;
   --text-color: #431;
   --link-color: #900;
@@ -534,40 +534,6 @@ img {
 
 table {
     border-spacing: 0.5em;
-}
-
-/* Styles for parties */
-.seat.kpd {
-    fill: #8B0000;
-}
-.seat.spd {
-    fill: #E3000F;
-    stroke: var(--border-color);
-    stroke-width: 1.5px;
-}
-.seat.ddp {
-    fill: #DCCA4A;
-}
-.seat.z {
-    fill: #000;
-}
-.seat.bvp {
-    fill: #69A2BE;
-}
-.seat.dvp {
-    fill: #D5AC27;
-}
-.seat.other {
-    fill: #909090;
-}
-.seat.dnvp {
-    fill: #3F7BC1;
-}
-.seat.nsdap {
-    fill: #954B00;
-}
-.seat.sapd {
-    fill: #C40000;
 }
 
 .tooltip-text {
