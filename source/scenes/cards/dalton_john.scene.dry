@@ -1,9 +1,11 @@
 title: John Dalton
 new-page: true
-on-arrival: dalton_visited += 1
+on-arrival: dalton_visited += 1; dalton_bio = 1;
 is-card: true
 card-image: img/flags.jpg
 frequency: 100
 tags: party_affairs
 
-John Dalton
+- @science_general: Dalton's General Contributions to science
+- @science_atoms: Dalton's Contributions to the Atom
+- @easy_discard
