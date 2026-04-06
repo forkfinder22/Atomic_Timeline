@@ -8,12 +8,12 @@ card-image: img/arbeiterbew.jpg
 
 @thanks_menu
 
-- @thanks: Thanks for Playing!
+- @thanks_2: Thanks for Playing!
 - @credits: Credits
 - @citations: Citations
 - @easy_discard
 
-@thanks
+@thanks_2
 
 Thanks for Playing!
 
