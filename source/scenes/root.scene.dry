@@ -10,7 +10,7 @@ go-to: start_menu_2
 
 @start_menu_2
 
-- @start: Start game
+- @start: <span style="color:#ffd700;">Start game</span>
 
 
 @start
@@ -31,7 +31,7 @@ new-page: true
 
 This is a game of non-fiction, and is not intended to be played as a game, rather as an interactive non-fiction "slideshow" (Of sorts)
 
-- @begin: *<span style="color:#000000;">**Begin**</span>*
+- @begin: ***Begin***
 
 @begin
 new-page: true
