@@ -7,7 +7,7 @@ on-arrival: bohr_visited += 1
 card-image: img/international.jpg
 ###A7C7E7
 
-- @science_general_bohr: <span style="color:#a7c7e7;">Bohr's</span> General Contributions to science
+- @science_general_bohr: <span style="color:#a7c7e7;">Bohr's</span><span style="color:#ffd700;"> General Contributions to science</span>
 - @science_atoms_bohr: <span style="color:#a7c7e7;">Bohr's</span> Contributions to the Atom
 - @easy_discard
 
