@@ -8,9 +8,9 @@ card-image: img/arbeiterbew.jpg
 
 @thanks_menu
 
-- @thanks_2: Thanks for Playing!
-- @credits: Credits
-- @citations: Citations
+- @thanks_2: <span style="color:#ffd700;"> Thanks for Playing!</span>
+- @credits: <span style="color:#ffd700;"> Credits</span>
+- @citations: <span style="color:#ffd700;"> Citations </span>
 - @easy_discard
 
 @thanks_2
