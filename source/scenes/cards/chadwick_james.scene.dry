@@ -7,8 +7,8 @@ on-arrival: chadwick_visited += 1; chadwick_bio = 1;
 card-image: img/weimar_coalition_2.jpg
 ### ccfca7
 
-- @science_general_chadwick: Chadwick's General Contributions to science
-- @science_atoms_chadwick: Chadwick's Contributions to the Atom
+- @science_general_chadwick: <span style="color:#ccfca7;">Chadwick's</span> General Contributions to science
+- @science_atoms_chadwick: <span style="color:#ccfca7;">Chadwick's</span> Contributions to the Atom
 - @easy_discard
 
 @science_general_chadwick
