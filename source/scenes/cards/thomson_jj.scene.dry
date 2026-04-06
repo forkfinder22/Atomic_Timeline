@@ -7,8 +7,8 @@ card-image: img/poster_1.png
 tags: party_affairs
 ###424177
 
-- @science_general_jj: <span style="color:#424177;">Thomson's</span> General Contributions to science
-- @science_atoms_jj: <span style="color:#424177;">Thomson's</span> Contributions to the Atom
+- @science_general_jj: <span style="color:#424177;">Thomson's</span> <span style="color:#ffd700;"> General Contributions to science</span>
+- @science_atoms_jj: <span style="color:#424177;">Thomson's</span> <span style="color:#ffd700;"> Contributions to the Atom </span>
 - @easy_discard
 
 @science_general_jj
