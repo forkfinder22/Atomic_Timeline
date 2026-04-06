@@ -6,4 +6,22 @@ view-if: other_visited >= 1
 on-arrival: thanks_visited += 1
 card-image: img/arbeiterbew.jpg
 
-Thanks, Credits, and Citations
+@thanks_menu
+
+- @thanks: Thanks for Playing!
+- @credits: Credits
+- @citations: Citations
+- @easy_discard
+
+@thanks
+
+Thanks for Playing!
+
+@credits
+### Photography and people involved in the creation of this
+
+Credits:
+
+@citations
+
+Citations:
