@@ -6,3 +6,7 @@ is-special: true
 
 Text Text
 [? if dalton_bio = 1 : Dalton Biography ?]
+[? if thomson_bio = 1 : Thomson Biography ?]
+[? if rutherford_bio = 1 : Rutherford Biography ?]
+[? if bohr_bio = 1 : Bohr Biography ?]
+[? if chadwick = 1 : Chadwick Biography ?]
