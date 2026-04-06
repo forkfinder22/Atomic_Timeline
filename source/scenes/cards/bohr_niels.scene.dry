@@ -7,4 +7,14 @@ on-arrival: bohr_visited += 1
 card-image: img/international.jpg
 ### Bohr is Blue
 
-Niels Bohr
+- @science_general_bohr: Bohr's General Contributions to science
+- @science_atoms_dalton: Bohr's Contributions to the Atom
+- @easy_discard
+
+@science_general_bohr
+
+TEXT
+
+@science_atoms_bohr
+
+TEXT
