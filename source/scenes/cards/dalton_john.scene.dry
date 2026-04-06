@@ -6,6 +6,14 @@ card-image: img/flags.jpg
 frequency: 100
 tags: party_affairs
 
-- @science_general: Dalton's General Contributions to science
-- @science_atoms: Dalton's Contributions to the Atom
+- @science_general_dalton: Dalton's General Contributions to science
+- @science_atoms_dalton: Dalton's Contributions to the Atom
 - @easy_discard
+
+@science_general_dalton
+
+TEXT
+
+@science_atoms_dalton
+
+TEXT
