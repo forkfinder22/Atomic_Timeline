@@ -7,8 +7,8 @@ frequency: 100
 tags: party_affairs
 ###b88e60
 
-- @science_general_dalton: Dalton's General Contributions to science
-- @science_atoms_dalton: Dalton's Contributions to the Atom
+- @science_general_dalton: <span style="color:#b88e60;">Dalton's</span> General Contributions to science
+- @science_atoms_dalton: <span style="color:#b88e60;">Dalton's</span> Contributions to the Atom
 - @easy_discard
 
 @science_general_dalton
