@@ -7,8 +7,8 @@ card-image: img/poster_2.jpg
 tags: party_affairs
 ###C04000
 
-- @science_general_rutherford: Rutherford's General Contributions to science
-- @science_atoms_rutherford: Rutherfords's Contributions to the Atom
+- @science_general_rutherford: <span style="color:#C04000;">Rutherford's</span> General Contributions to science
+- @science_atoms_rutherford: <span style="color:#C04000;">Rutherford's</span> Contributions to the Atom
 - @easy_discard
 
 @science_general_rutherford
