@@ -1,14 +1,14 @@
 body {
   --bg-color: #000000;
   --border-color: #ffd700;
-  --content-bg-color: #808080;
+  --content-bg-color: #333333;
   --text-color: #ffd700;
   --link-color: #900;
   --link-hover-color: rgba(0, 0, 0, 0.05);
   --unavailable-bg-color: rgba(0, 0, 0, 0.1);
   --unavailable-color: #999;
   --tab-bg-color: #964b00;
-  --tab-color: #ddd;
+  --tab-color: #000;
   --tab-hover-color: #970b22;
   --card-border-color: #ffd700; 
   --card-bg-color: #ddd; 
