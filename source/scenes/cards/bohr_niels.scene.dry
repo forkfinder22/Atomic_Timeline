@@ -8,7 +8,7 @@ card-image: img/international.jpg
 ###A7C7E7
 
 - @science_general_bohr: Bohr's General Contributions to science
-- @science_atoms_dalton: Bohr's Contributions to the Atom
+- @science_atoms_bohr: Bohr's Contributions to the Atom
 - @easy_discard
 
 @science_general_bohr
