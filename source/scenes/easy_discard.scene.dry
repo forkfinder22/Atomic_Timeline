@@ -1,10 +1,6 @@
-title: Return card to hand.
-view-if: difficulty <= 0 and last_advisor_action = 0 and last_cabinet_action = 0
+title: <span style="color:#ffd700;">Return card to hand.</span>
 go-to: root
 on-arrival: {!
-if (Q.month_actions > 0) {
-    Q.month_actions -= 1;
-}
 // return card to hand
 var card = this.state.lastPlayedCard;
 card.image = card.cardImage;
@@ -14,9 +10,6 @@ if (Q.difficulty >= 0) {
     this.state.currentHands['main.main_easy'].push(card);
 }
 // reset the timer...
-if (Q[card.id + "_timer"]) {
-    Q[card.id + "_timer"] = 0;
-}
 // reduce visit count
 if (this.state.visits[card.id]) {
     this.state.visits[card.id] -= 1;
