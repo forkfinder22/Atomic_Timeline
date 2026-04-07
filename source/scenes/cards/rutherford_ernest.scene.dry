@@ -3,7 +3,7 @@ new-page: true
 view-if: thomson_visited >= 1
 on-arrival: rutherford_visited += 1
 is-card: true
-card-image: img/poster_2.jpg
+card-image: img/rutherford.jpg
 tags: party_affairs
 ###C04000
 
