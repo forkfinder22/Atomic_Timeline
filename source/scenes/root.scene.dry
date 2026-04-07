@@ -39,8 +39,8 @@ go-to: main
 
 = The Atomic Timeline
 
-To learn about a scientist, click on the <span style="color:#34b233;">**deck**</span>. This will draw a <span style="color:#000080;'>Scientist Card</span>, in chronological order for the scientists I have selected.
+<p>To learn about a scientist, click on the <span style="color:#34b233;">**deck**</span>. This will draw a <span style="color:#000080;'>Scientist Card</span>, in chronological order for the scientists I have selected.</p><br />
 
-When you click the <span style="color:#000080;">Scientist Card</span>, You will be taken to a menu with various options regarding their contributions to sciences, and more importantly, to <span style="color:#ff0000;">at</span><span style="color:#4e9fe5;">om</span><span style="color:#888888;">s</span>.
+<p>When you click the <span style="color:#000080;">Scientist Card</span>, You will be taken to a menu with various options regarding their contributions to sciences, and more importantly, to <span style="color:#ff0000;">at</span><span style="color:#4e9fe5;">om</span><span style="color:#888888;">s</span>.</p><br />
 
-A short biography of the scientists can be found in the sidebar. The Biography will appear when you enter the <span style="color:#000080;'>Scientist Card</span>, and disappear when you exit it.
+<p>A short biography of the scientists can be found in the sidebar. The Biography will appear when you enter the <span style="color:#000080;'>Scientist Card</span>, and disappear when you exit it.</p><br />
