@@ -4,7 +4,7 @@ is-card: true
 tags: party_affairs
 view-if: rutherford_visited >= 1
 on-arrival: bohr_visited += 1
-card-image: img/international.jpg
+card-image: img/bohr.jpg
 ###A7C7E7
 
 - @science_general_bohr: <span style="color:#a7c7e7;">Bohr's</span><span style="color:#ffd700;"> General Contributions to science</span>
