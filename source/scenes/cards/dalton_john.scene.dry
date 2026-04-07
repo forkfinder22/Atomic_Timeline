@@ -2,7 +2,7 @@ title: John Dalton
 new-page: true
 on-arrival: dalton_visited += 1; dalton_bio = 1;
 is-card: true
-card-image: img/flags.jpg
+card-image: img/dalton.jpg
 frequency: 100
 tags: party_affairs
 ###b88e60
