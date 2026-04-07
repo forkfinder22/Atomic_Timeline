@@ -5,10 +5,18 @@ is-special: true
 = Biography
 
 [? if dalton_bio = 1 : <span style="color:#b88e60;">John Dalton</span> was born on September 5th, 1766, in Eaglesfield, Cumberland, England. He was a meteorologist and chemist, and made some of the first advancements into Atomic Theory, excluding Democritus <br /> ?]
+
+
 [? if dalton_bio = 1 : Early life <br />
+
 [? if dalton_bio = 1 : <span style="color:#b88e60;">Dalton</span> was born into a family of tradesmen (His grandfather, Jonathan, was a shoemaker. His father, Joseph was a weaver), and was raised as a Quaker (A denomination of Christianity). Of the three children who had survived until adulthood, <span style="color:#b88e60;">Dalton</span> was the youngest, and attended a grammar school in Eaglesfield. As he grew up, he was also mentored by two others, who taught him the basics of mathematics, Greek, and Latin. <br /> ?]
+
+
 [? if dalton_bio = 1 : Early Scientific career <br /> ?]
+
 [? if dalton_bio = 1 : In 1793, <span style="color:#b88e60;">Dalton</span> began teaching mathematics at another school, the New College, in Manchester, England. It was there that he would write Meteorological Observations and Essays, along with John Gough and Peter Croswaithe, a book that would transform Meteorology into a real science <br /> ?]
+
+
 [? if dalton_bio = 1 : TEST ?]
 [? if thomson_bio = 1 : Thomson Biography ?]
 [? if rutherford_bio = 1 : Rutherford Biography ?]
