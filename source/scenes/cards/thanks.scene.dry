@@ -9,7 +9,7 @@ card-image: img/arbeiterbew.jpg
 - @thanks_menu
 
 @thanks_menu
-title: To Credits & Citations
+title: <span style="color:#ffd700;">To Credits & Citations</span>
 
 - @thanks_2: <span style="color:#ffd700;"> Thanks for Playing!</span>
 - @credits: <span style="color:#ffd700;"> Credits</span>
@@ -26,18 +26,18 @@ Thanks for Playing!
 ### Photography and people involved in the creation of this
 
 Credits:
-ForkFinder22 -- Coding
-ForkFinder22 -- Writing
-ForkFinder22 -- Image sourcing
-ForkFinder22 -- Citation Sourcing
-Autumnchen -- Dendrynexus engine
-Autumnchen -- Template
-Originn0 -- Coloured Text (Differentiating)
-Originn0, Cuttlecraft & Autumnchen -- Providing the necessary coding to learn Dendrynrxus
-Wikipedia -- Providing sources
-Anonymous -- Providing me with this project
-HTML colour codes -- Finding appropriate colours
-Democritus, John Dalton, JJ Thomson, Ernest Rutherford, Niels Bohr, James Chadwick -- Discovering and improving upon Atomic Theory
+ForkFinder22 -- Coding <br />
+ForkFinder22 -- Writing <br />
+ForkFinder22 -- Image sourcing <br />
+ForkFinder22 -- Citation Sourcing <br />
+Autumnchen -- Dendrynexus engine <br />
+Autumnchen -- Template <br />
+Originn0 -- Coloured Text (Differentiating) <br />
+Originn0, Cuttlecraft & Autumnchen -- Providing the necessary code to learn Dendrynrxus <br />
+Wikipedia -- Providing sources <br />
+Anonymous -- Providing me with this project <br />
+HTML colour codes -- Finding appropriate colours <br />
+Democritus, John Dalton, JJ Thomson, Ernest Rutherford, Niels Bohr, James Chadwick -- Discovering and improving upon Atomic Theory <br />
 
 - @thanks_menu
 
