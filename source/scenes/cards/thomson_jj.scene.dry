@@ -3,7 +3,7 @@ new-page: true
 view-if: dalton_visited >= 1
 on-arrival: thomson_visited += 1
 is-card: true
-card-image: img/poster_1.png
+card-image: img/thomson.png
 tags: party_affairs
 ###424177
 
