@@ -7,6 +7,8 @@ card-image: img/thomson.jpg
 tags: party_affairs
 ###424177
 
+<span><img src=img/thomson.jpg alt="Picture of JJ Thomson" style="float:right;width:200px;height:260px;"></span>
+
 - @science_general_jj: <span style="color:#424177;">Thomson's</span> <span style="color:#ffd700;"> General Contributions to science</span>
 - @science_atoms_jj: <span style="color:#424177;">Thomson's</span> <span style="color:#ffd700;"> Contributions to the Atom </span>
 - @easy_discard

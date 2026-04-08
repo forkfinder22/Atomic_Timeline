@@ -7,7 +7,7 @@ frequency: 100
 tags: party_affairs
 ###b88e60
 
-<span><img src=/out/html/img/dalton.jpg alt="Picture of John Dalton" style="float:right;width:200px;height:260px;"></span>
+<span><img src=img/dalton.jpg alt="Picture of John Dalton" style="float:right;width:200px;height:260px;"></span>
 
 - @science_general_dalton: <span style="color:#b88e60;">Dalton's</span><span style="color:#ffd700;"> General Contributions to science</span>
 - @science_atoms_dalton: <span style="color:#b88e60;">Dalton's</span><span style="color:#ffd700;"> Contributions to the Atom</span>
