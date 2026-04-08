@@ -19,6 +19,6 @@ TEXT
 
 @science_atoms_bohr
 
-<p> In 1913, Bohr theorised that the Rutherford Atomic Model was mostly true, but that electrons moved in discrete orbits around the atom, and that light only emitted from Hydrogen atoms when a electron moved an orbit closer to the atom </p> 
+<p> In 1913, <span style="color:#a7c7e7;">Bohr</span> theorised that <span style="color:#C04000;">Rutherford's</span> Atomic Model was mostly true, except that electrons would move in discrete orbits around the atom, and that light would only emit from Hydrogen atoms when an electron moved an orbit closer to the atom </p> 
 
 - @easy_discard
