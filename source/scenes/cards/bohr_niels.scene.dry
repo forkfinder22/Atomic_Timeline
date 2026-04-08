@@ -5,9 +5,8 @@ tags: party_affairs
 view-if: rutherford_visited >= 1
 on-arrival: bohr_visited += 1
 card-image: img/bohr.jpg
+face-image: img/bohr.jpg
 ###A7C7E7
-
-<span><img src=img/bohr.jpg alt="Picture of Niels Bohr" style="float:right;width:200px;height:260px;"></span>
 
 - @science_general_bohr: <span style="color:#a7c7e7;">Bohr's</span><span style="color:#ffd700;"> General Contributions to science</span>
 - @science_atoms_bohr: <span style="color:#a7c7e7;">Bohr's</span><span style="color:#ffd700;"> Contributions to the Atom</span>

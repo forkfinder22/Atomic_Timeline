@@ -5,9 +5,8 @@ on-arrival: rutherford_visited += 1
 is-card: true
 card-image: img/rutherford.jpg
 tags: party_affairs
+face-image: imh/rutherford.jpg
 ###C04000
-
-<span><img src=img/ernest.jpg alt="Picture of Ernest Rutherford" style="float:right;width:200px;height:260px;"></span>
 
 - @science_general_rutherford: <span style="color:#C04000;">Rutherford's</span> <span style="color:#ffd700;"> General Contributions to science </span>
 - @science_atoms_rutherford: <span style="color:#C04000;">Rutherford's</span> <span style="color:#ffd700;"> Contributions to the Atom </span>
