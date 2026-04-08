@@ -22,7 +22,7 @@ is-special: true
 
 [? if dalton_bio = 1 : Dalton was the first to record that he saw colours different from others - Colourblindness, at the time called "Daltonism". His brother also had colourblindness, which made him theorise that it was genetic. <br /> ?]
 
-[? if dalton_bio = 1 : Dalton enjoyed collecting small insects like butterflies, and snails. <br />
+[? if dalton_bio = 1 : Dalton enjoyed collecting small insects like butterflies, and snails. <br /> ?]
 
 [? if thomson_bio = 1 : <span style="color:#424177;">JJ Thomson</span> was born on December 18th, 1856, in Cheetham Hill, near Manchester, England. His father was a bookseller, and he entered college at age 14. Notable acheivements being expanding Atomic Theory and discovering Electrons. <br />?]
 
