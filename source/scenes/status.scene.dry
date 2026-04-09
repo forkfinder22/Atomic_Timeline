@@ -26,40 +26,8 @@ is-special: true
 
 [? if thomson_bio = 1 : <span style="color:#424177;">JJ Thomson</span> was born on December 18th, 1856, in Cheetham Hill, near Manchester, England. His father was a bookseller, and he entered college at age 14. Notable acheivements being expanding Atomic Theory and discovering Electrons. <br />?]
 
-[? if thomson_bio = 1 : Early life <br /> ?]
-
-[? if thomson_bio = 1 : Scientific Career <br /> ?]
-
-[? if thomson_bio = 1 : Atomic Theory <br /> ?]
-
-[? if thomson_bio = 1 : Fun Facts <br /> ?]
-
-[? if rutherford_bio = 1 : Rutherford Biography Short ?]
-
-[? if rutheford_bio = 1 : Early life <br /> ?]
-
-[? if rutherford_bio = 1 : Scientific Career <br /> ?]
-
-[? if rutherford_bio = 1 : Atomic Theory <br /> ?]
-
-[? if rutherford_bio = 1 : Fun Facts <br /> ?]
+[? if rutherford_bio = 1 : The Right Honourable Lord Ernest Rutherford of Nelson was born on 30 August 1871 ?]
 
 [? if bohr_bio = 1 : Bohr Biography Short <br /> ?]
 
-[? if bohr_bio = 1 : Early Life <br /> ?]
-
-[? if bohr_bio = 1 : Scientific Career <br /> ?]
-
-[? if bohr_bio = 1 : Atomic Theory <br /> ?]
-
-[? if bohr_bio = 1 : Fun Facts <br / > ?]
-
 [? if chadwick = 1 : Chadwick Biography Short <br /> ?]
-
-[? if chadwick = 1 : Early Life <br /> ?]
-
-[? if chadwick = 1 : Scientific Career <br /> ?]
-
-[? if chadwick = 1 : Atomic Theory <br /> ?]
-
-[? if chadwick = 1 : Fun Facts <br /> ?]
