@@ -14,7 +14,7 @@ face-image: img/bohr.jpg
 
 @science_general_bohr
 
-TEXT
+Some of <span style="color:#a7c7e7;">Bohr's</span> contributions to science include predicting the behavior of the then-unknown Element 72 (Where he was later proven correct). <span style="color:#a7c7e7;">Bohr</span>, <span style="color:#D8CFC4;">Werner Heisenberg</span>, and others, developed the Copenhagen interpretation of quantum mechanicsand complimentarity principle.
 
 - @easy_discard
 
