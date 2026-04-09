@@ -24,10 +24,10 @@ is-special: true
 
 [? if dalton_bio = 1 : <span style="color:#b88e60;">Dalton</span> enjoyed collecting small insects like butterflies, and snails. <br /> ?]
 
-[? if thomson_bio = 1 : <span style="color:#424177;">JJ Thomson</span> was born on December 18th, 1856, in Cheetham Hill, near Manchester, England. His father was a bookseller, and he entered college at age 14. Notable acheivements being expanding Atomic Theory and discovering Electrons. <br />?]
+[? if thomson_bio = 1 : <span style="color:#424177;">JJ Thomson</span> was born on December 18th, 1856, in Cheetham Hill, near Manchester, England. His father was a bookseller, and he entered college at age 14. Notable acheivements being expanding Atomic Theory and discovering Electrons. He died on 30 August, 1940. <br />?]
 
-[? if rutherford_bio = 1 : The Right Honourable Lord Ernest Rutherford of Nelson was born on 30 August 1871 ?]
+[? if rutherford_bio = 1 : <span style="color:#C04000;">The Right Honourable Lord Ernest Rutherford of Nelson</span> was born on 30 August 1871, and was a physicist-chemist in Atomic and Nuclear physics. Among many other things, he discovered, Half-life, Alpha & Beta radiation, and along with <span style=color:#A7C7E7;">Bohr</span>, he formulated the <span style=color:#A7C7E7;">Bohr</span> model. He died on 19 October, 1937. <br /> ?]
 
-[? if bohr_bio = 1 : Bohr Biography Short <br /> ?]
+[? if bohr_bio = 1 : <span style="color:#a7c7e7;"> Niels Bohr</span> was born on 7 October 1885, and was a Danish Theoretical Physicist and discoverd both the Complimentarity principle and a new element, Hafnium. He died on 18 November, 1962 <br /> ?] 
 
-[? if chadwick = 1 : Chadwick Biography Short <br /> ?]
+[? if chadwick = 1 : <span style="color:#ccfca7;">James Chadwick</span> was born on 20 October, 1891, and was a British Physicist who discovered the Neutron. He died on 24 July 1974  <br /> ?]
