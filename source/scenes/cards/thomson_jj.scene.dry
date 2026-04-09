@@ -14,7 +14,7 @@ face-image: img/thomson.jpg
 
 @science_general_jj
 
-TEXT
+Some of <span style="color:#424177;">Thomson's</span> other scientific contributions include helping develop the theory of electromagnetism, and hypothesising the proton (Later proved by Albert Einstein)
 
 - @easy_discard
 
